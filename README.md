@@ -1,4 +1,4 @@
-# CryptoBot
+# Telegram bot
 
 **_What is a Telegram bot?_**
 
